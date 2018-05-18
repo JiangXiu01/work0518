@@ -5,8 +5,8 @@
 
 int main(int argc, char *argv[]) {
 	
-	
-	printf("work");
+	//第三次commit 新增註解 
+	printf("work"); //顯示woork字串 
 
 
 	return 0;
